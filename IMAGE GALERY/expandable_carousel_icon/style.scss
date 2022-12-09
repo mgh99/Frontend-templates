@@ -81,9 +81,9 @@ body {
                   opacity:1;
                }
             }
-            /*&:active {
+            &:active {
                transform:scale(0.9);
-            }*/
+            }
          }
          &:not(.active) {
             flex-grow:1;
