@@ -7,6 +7,7 @@ In the HTML folder you have to include:
 - Add Class(es) to <html>: theme_switchable
   
 In the CSS folder you have to include:
+- CSS Preprocessor: SCSS
 - CSS Base: Neither
 - Vendor Prefixing: Neither
 - Add External Styles/Pens:
